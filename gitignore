@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# scikit-learn / OpenML cache
+scikit_learn_data/
+
+# Environment variables / secrets
+.env
+
+# Data and model files (uncomment if you add large files)
+# *.csv
+# *.pkl
+# *.joblib
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
